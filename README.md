@@ -19,7 +19,7 @@ O projeto consiste em programar mensagens no banco de dados para aviso posterior
 * IDE Utilizada Intellij Idea
 * Executar o projeto localmente: mvn spring-boot:run
 
-## Database Additional Information
+## Banco de Dados
 
 O Banco de dados utilizado foi o H2 para execução em memória
 
